@@ -3,13 +3,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ℹ️  About The Project
 This application helps you to set up easily the corporate theme on the user desktop.
 Using commands / and parameters you can also easily force a Windows theme on the user desktop.
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🚀 Getting Started
 The application itself uses predefined Windows themes (.theme) from the "Theme" subfolder which are automatically copied to %ProgramData% when selected. Currently max. 3 different themes are supported.
 
 ### Usage
@@ -29,7 +29,7 @@ Automatically selects the theme and does not display a GUI. The application will
 
 
 <!-- LICENSE -->
-## License
+## 📃 License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ### Third Party - ThemeSwitcher.exe
@@ -38,5 +38,5 @@ https://winaero.com/winaero-theme-switcher
 
 
 <!-- CONTACT -->
-## Contact
+## 📧 Contact
 TUGI - [contact@tugi.ch](mailto:contact@tugi.ch)<br>
