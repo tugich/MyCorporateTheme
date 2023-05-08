@@ -29,6 +29,9 @@ Automatically selects the theme and does not display a GUI. The application will
 ## License
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+## Third Party - ThemeSwitcher.exe
+ThemeSwitcher by Winaero (Sergey Tkachenkko):
+https://winaero.com/winaero-theme-switcher
 
 <!-- CONTACT -->
 ## Contact
