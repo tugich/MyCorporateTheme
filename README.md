@@ -10,7 +10,8 @@ Using commands / and parameters you can also easily force a Windows theme on the
 
 <!-- GETTING STARTED -->
 ## 🚀 Getting Started
-The application itself uses predefined Windows themes (.theme) from the "Theme" subfolder which are automatically copied to %ProgramData% when selected. Currently max. 3 different themes are supported.
+MyCorporateTheme uses predefined Windows themes (.theme) from the "Theme" subfolder which are automatically copied to %ProgramData% when selected. Currently max. 3 different themes are supported.<br>
+https://blog.tugi.ch/mobile-device-management/create-corporate-windows-theme-and-deploy-over-endpoint-management
 
 ### Usage
 1. Copy your Windows Themes and the Wallpaper to the sub-folder "Theme"
